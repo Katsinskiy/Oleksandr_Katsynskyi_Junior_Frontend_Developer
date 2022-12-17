@@ -46,6 +46,15 @@ width: 400px;}
     margin-bottom: 50px;
 }
 
+.about-project {
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+width: 400px;
+}
+
 
 .title {
 font-style: normal;
